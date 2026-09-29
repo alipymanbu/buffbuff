@@ -1,51 +1,26 @@
-# BuffBuff 最新官网下载｜buffbuff 安卓版下载
+# BuffBuff
 
-BuffBuff 正版官方最新下载，buffbuff 安卓版下载，BuffBuff 下载，海外第三方游戏工具，提供版本区分、使用排错教程，解决加载失败、充值异常、闪退等常见问题。
+本仓库是「BuffBuff」的安卓版本获取入口，附使用资料索引。
 
-# **BuffBuff下载地址**: 
+## 安装文件资源（夸克网盘）
 
-网盘下载地址:
+> **BuffBuff 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d37e89f76018](https://pan.quark.cn/s/d37e89f76018)
 
-https://pan.quark.cn/s/104b6fce67cd
+## 官方项目
 
-（网盘保存，**有新版网盘自动更新**）
+- 上游项目：[Download-AI/buffbuff](https://github.com/Download-AI/buffbuff)
 
-官方网站:www.buffbuff.com
+## 更多资料
 
-（国外服务器，下载慢就网盘下载）
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/BuffBuff/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [充值未到账怎么办](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/BuffBuff/%E5%85%85%E5%80%BC%E6%9C%AA%E5%88%B0%E8%B4%A6%E6%80%8E%E4%B9%88%E5%8A%9E.md)
+- [兑换码怎么用](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/BuffBuff/%E5%85%91%E6%8D%A2%E7%A0%81%E6%80%8E%E4%B9%88%E7%94%A8.md)
+- [常见问题解答](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/BuffBuff/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94.md)
+- [怎么设置中文](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/BuffBuff/%E6%80%8E%E4%B9%88%E8%AE%BE%E7%BD%AE%E4%B8%AD%E6%96%87.md)
+- [是什么软件](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/BuffBuff/%E6%98%AF%E4%BB%80%E4%B9%88%E8%BD%AF%E4%BB%B6.md)
+- [游戏充值步骤](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/BuffBuff/%E6%B8%B8%E6%88%8F%E5%85%85%E5%80%BC%E6%AD%A5%E9%AA%A4.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-网上搜索 buffbuff 最新官网下载的玩家非常多，很多人分不清它和网易 BUFF 的区别，到处找安装包，下载之后又碰到打不开、加载空白、充值不到账、软件闪退等一系列麻烦。我整理实际玩家高频遇到的问题，尽量写得通俗直白。
+---
 
-BuffBuff 是海外安卓端第三方工具，主要功能包含外服游戏代充值、海外 APK 资源下载，附带礼包码、游戏攻略板块。很多人容易把它和国内 CS2 饰品交易的网易 BUFF 弄混，二者完全不属于同一家产品。
-
-## BuffBuff 和网易 BUFF 有什么区别
-
-不少玩家搜索的时候经常混淆两款软件名字，最后下错软件。 BuffBuff 是海外第三方手游充值、APK 下载工具，主打外服游戏储值；网易 BUFF 是国内官方饰品交易平台，专门做 CS2、DOTA2 游戏饰品买卖，两者业务、开发主体完全无关。
-
-## buffbuff 国内可以直接使用吗
-
-BuffBuff 没有国内官方版本，没有上架国内手机应用商店。 就算把 APK 安装到安卓手机上，软件对接海外服务，国内普通网络环境会出现加载失败、页面空白。想要完整使用往往需要翻墙，私自翻墙属于违法行为。
-
-## buffbuff 安装之后闪退如何处理
-
-部分国产安卓机型安装完 BuffBuff 打开直接闪退。 一部分是安装包来源被篡改损坏；另一部分是安卓系统权限限制，境外 APP 对国内定制系统适配较差。 优先尝试检查安装包完整性；关闭手机系统的后台权限限制；如果依旧闪退，大概率该机型兼容性差，没有很好的解决办法。不要反复覆盖安装，建议卸载清理数据之后重试。
-
-## buffbuff 充值代充会封号吗
-
-这是玩家问得最多的问题。 BuffBuff 核心业务是游戏第三方代充，这类代充服务并不受游戏厂商官方认可，违反绝大多数手游用户协议。 使用代充存在账号被处罚、道具清零、账号封禁风险。部分充值渠道来源复杂，还会附带黑卡洗钱的牵连风险，出现资金问题国内渠道很难维权。
-
-## buffbuff 加载页面空白、网络异常排查
-
-安装成功，打开软件页面刷不出来，图片空白。 该软件服务部署在海外，国内普通网络环境访问会受限，这是最主要原因。第三方修改衍生版本，也会出现接口适配异常，导致加载失败。
-
-## buffbuff 有没有 iOS 苹果版本
-
-BuffBuff 没有上架苹果 App Store，没有正规 iOS 版本。 网上流传所谓 buffbuff 苹果版、ios 安装包大多是虚假引流，不要随意安装，避免遇到恶意程序。
-
-## buffbuff apk 来源有哪些风险
-
-小网站分享的 buffbuff 安装包。 第三方二次分发的 APK 无法确认源码完整性，有可能植入广告、窃取隐私的恶意代码。不要从不知名站点获取安装文件。不存在国内官方官网，大量所谓 “buffbuff 官网” 属于钓鱼仿冒站点。
-
-## 总结
-
-查找 BuffBuff 相关资源，首先分清 BuffBuff 和网易 BUFF 两款软件；该软件未在国内备案，国内直接使用存在网络限制；谨慎使用代充功能，警惕账号封禁、资金被骗风险；网上大量仿冒官网、网盘分享包风险很高。
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/Download-AI/buffbuff)。
